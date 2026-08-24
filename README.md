@@ -143,9 +143,12 @@ VERSION
 
 Carve 1.0
 
-Copyright (c) 2026 Guus KroonenSee LICENSE.txt for terms of use.
+Copyright (c) 2026 Guus Kroonen
 
+See LICENSE.txt for terms of use.
 
 REFERENCE
+
 Carve in general / all versions: 10.5281/zenodo.22079175
-Carve 1.0.0: 10.5281/zenodo.22079176
+
+Carve 1.0 (1.0.0): 10.5281/zenodo.22079176
