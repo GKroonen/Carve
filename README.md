@@ -147,4 +147,5 @@ Copyright (c) 2026 Guus KroonenSee LICENSE.txt for terms of use.
 
 
 REFERENCE
-DOI: https://doi.org/10.5281/zenodo.22079176
+Carve in general / all versions: 10.5281/zenodo.22079175
+Carve 1.0.0: 10.5281/zenodo.22079176
