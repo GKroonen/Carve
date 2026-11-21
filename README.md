@@ -275,3 +275,4 @@ See [LICENSE.md](LICENSE.md) for the complete licence terms and
 
 - Carve, all versions: <https://doi.org/10.5281/zenodo.22079175>
 - Carve 1.0.0: <https://doi.org/10.5281/zenodo.22079176>
+- Carve 1.1.0: <https://doi.org/10.5281/zenodo.24427093>
