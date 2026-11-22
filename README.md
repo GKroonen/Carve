@@ -116,8 +116,6 @@ Available distance measures are:
 - **Hausdorff** — emphasizes the greatest nearest-point discrepancy;
 - **Procrustes** — compares forms after geometric alignment;
 - **Fréchet** — compares the course of curves;
-- **DTW (Dynamic Time Warping)** — compares ordered stroke trajectories while
-  allowing local differences in progression.
 
 Different metrics emphasize different aspects of sign geometry and may
 therefore produce somewhat different similarity patterns. The selected metric
